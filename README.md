@@ -1,43 +1,46 @@
-# Hi there, I'm Minh Quân! 👋
+<h1 align="center">Hà Giang</h1>
 
-### 👩‍💻 About Me
-I am a student with a strong passion for **Computer Science** and **Technology**. My ultimate goal is to become a high-level **AI Engineer**, mastering complex algorithms to solve real-world problems.
-
-- 🔭 I’m currently working on: **C++ Algorithms & Data Structures**
-- 🌱 I’m currently learning: **Machine Learning**, **English** (IELTS target), and **System Design**.
-- 🎯 Future Goal: Master **High-Income Skills** in Tech & Engineering to achieve financial freedom.
-- ⚡ Fun fact: I love optimizing code for maximum performance!
-
----
-
-### 🛠️ Languages and Tools
-<p align="left"> 
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-  </a>
-</p>
-
----
-
-### 📈 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME-CUA-BAN&show_icons=true&theme=radical" alt="Ha Giang Stats" />
+  <b>Aspiring AI Engineer | C++ Developer | Tech Enthusiast</b><br>
+  <i>📍 Ho Chi Minh City, Vietnam</i>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-CUA-BAN&layout=compact&theme=radical" alt="Top Langs" />
+  <a href="mailto:email-cua-ban@example.com">Email</a> •
+  <a href="https://linkedin.com/in/username-cua-ban">LinkedIn</a> •
+  <a href="https://github.com/username-cua-ban">GitHub</a>
 </p>
 
 ---
 
-### 📫 Connect with me
-- **Email**: [minhquan10627@gmail.com]
+## 👨‍💻 Giới thiệu (About Me)
+
+Xin chào! Tôi là **Hà Giang**, một sinh viên đam mê Công nghệ và Khoa học Máy tính.
+
+Mục tiêu của tôi là trở thành một **Kỹ sư AI (AI Engineer)** chuyên nghiệp, tập trung vào việc xây dựng các hệ thống thông minh và tối ưu hóa hiệu suất bằng **C++**. Tôi tin rằng sự kết hợp giữa tư duy toán học, kỹ thuật lập trình vững chắc và khả năng ngoại ngữ sẽ là chìa khóa để giải quyết các vấn đề thực tế.
+
+* **Mối quan tâm nghiên cứu:** Machine Learning, Deep Learning, High-performance Computing.
+* **Đang học:** Cấu trúc dữ liệu & Giải thuật, Tiếng Anh (IELTS), Toán học cho AI.
+
+---
+
+## 🔥 Tin tức (News)
+
+- **[Tháng 12/2025]**: Đang tập trung nghiên cứu sâu về **C++** và các thuật toán tối ưu hóa.
+- **[Tháng 11/2025]**: Bắt đầu lộ trình học tập để trở thành AI Engineer.
+- **[Mục tiêu 2026]**: Hoàn thành chứng chỉ IELTS và tham gia dự án AI đầu tiên.
+
+---
+
+## 🛠️ Kỹ năng (Skills)
+
+| Lĩnh vực | Công nghệ / Ngôn ngữ |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **AI/ML** | *Đang cập nhật (TensorFlow, PyTorch...)* |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| **Languages** | Vietnamese (Native), English (Learning) |
+
+---
+
+## 🚀
