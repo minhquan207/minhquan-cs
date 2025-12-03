@@ -23,7 +23,7 @@ Mục tiêu của tôi là trở thành một **Kỹ sư AI (AI Engineer)** chuy
 
 - **[Tháng 11/2025]**: Đang tập trung nghiên cứu sâu về **C++** và các thuật toán tối ưu hóa.
 - **[Tháng 1/2026]**: Bắt đầu lộ trình học tập để trở thành AI Engineer.
-- **[Mục tiêu 2026]**: Hoàn thành chứng chỉ IELTS và tham gia dự án AI đầu tiên.
+- **[Mục tiêu 2026]**: Hoàn thành chứng chỉ TOEIC và tham gia thực hiện NCKH đầu tiên.
 
 ---
 
