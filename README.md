@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:email-cua-ban@example.com">Email</a> •
   <a href="https://linkedin.com/in/username-cua-ban">LinkedIn</a> •
-  <a href="https://github.com/username-cua-ban">GitHub</a>
+  <a href="[https://github.com/username-cua-ban](https://github.com/minhquan207/minhquan-cs/blob/main/README.md)">GitHub</a>
 </p>
 
 ---
