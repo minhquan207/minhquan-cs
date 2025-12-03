@@ -1,4 +1,4 @@
-<h1 align="center">Hà Giang</h1>
+<h1 align="center">Minh Quân</h1>
 
 <p align="center">
   <b>Aspiring AI Engineer | C++ Developer | Tech Enthusiast</b><br>
@@ -15,32 +15,21 @@
 
 ## 👨‍💻 Giới thiệu (About Me)
 
-Xin chào! Tôi là **Hà Giang**, một sinh viên đam mê Công nghệ và Khoa học Máy tính.
+Xin chào! Tôi là **Minh Quân**, một sinh viên đam mê Công nghệ và Khoa học Máy tính.
 
 Mục tiêu của tôi là trở thành một **Kỹ sư AI (AI Engineer)** chuyên nghiệp, tập trung vào việc xây dựng các hệ thống thông minh và tối ưu hóa hiệu suất bằng **C++**. Tôi tin rằng sự kết hợp giữa tư duy toán học, kỹ thuật lập trình vững chắc và khả năng ngoại ngữ sẽ là chìa khóa để giải quyết các vấn đề thực tế.
 
 * **Mối quan tâm nghiên cứu:** Machine Learning, Deep Learning, High-performance Computing.
-* **Đang học:** Cấu trúc dữ liệu & Giải thuật, Tiếng Anh (IELTS), Toán học cho AI.
+* **Đang học:** Cấu trúc dữ liệu & Giải thuật, Tiếng Anh (Toeic), Toán học cho AI.
 
 ---
 
 ## 🔥 Tin tức (News)
 
-- **[Tháng 12/2025]**: Đang tập trung nghiên cứu sâu về **C++** và các thuật toán tối ưu hóa.
-- **[Tháng 11/2025]**: Bắt đầu lộ trình học tập để trở thành AI Engineer.
+- **[Tháng 11/2025]**: Đang tập trung nghiên cứu sâu về **C++** và các thuật toán tối ưu hóa.
+- **[Tháng 1/2026]**: Bắt đầu lộ trình học tập để trở thành AI Engineer.
 - **[Mục tiêu 2026]**: Hoàn thành chứng chỉ IELTS và tham gia dự án AI đầu tiên.
 
 ---
 
-## 🛠️ Kỹ năng (Skills)
 
-| Lĩnh vực | Công nghệ / Ngôn ngữ |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **AI/ML** | *Đang cập nhật (TensorFlow, PyTorch...)* |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
-| **Languages** | Vietnamese (Native), English (Learning) |
-
----
-
-## 🚀
