@@ -5,12 +5,7 @@
   <i>📍 Ho Chi Minh City, Vietnam</i>
 </p>
 
-<p align="center">
-  <a href="mailto:email-cua-ban@example.com">Email</a> •
-  <a href="https://linkedin.com/in/username-cua-ban">LinkedIn</a> •
-  <a href="[https://github.com/username-cua-ban]">GitHub<https://github.com/minhquan207/minhquan-cs/blob/main/README.md/a>
-</p>
-
+- 📧 Email: [minhquan10627@gmail.com](mailto:minhquan10627@gmail.com)
 ---
 
 ## 👨‍💻 Giới thiệu (About Me)
